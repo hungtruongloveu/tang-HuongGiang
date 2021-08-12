@@ -8,9 +8,9 @@ const CONFIG = {
     btnNo: 'đéo :))',
     question:'Nói cho siêu Anh Hùng lý do vì sao thích đê <3',
     btnReply: 'Gửi cho siêu Anh Hùng <3',
-    reply: 'Tại vì đẹp trai lại còn cao m7 hihi =)))',
+    reply: 'Tại vì người gì mà đã đẹp trai lại còn cao m7 hihi =)))',
     mess: 'Tớ biết mà 🥰. Love you 3000 😘😘',
-    messDesc: 'còn giờ thì chờ gì nữa mà không inbox hát cho tui nghe =).',
+    messDesc: 'còn giờ thì chờ gì nữa mà không inbox hát cho tui nghe nào =).',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://m.me/lazyeternal' 
 }
