@@ -1,16 +1,16 @@
 const CONFIG = {
-    introTitle: 'Hee luu cậu!',
-    introDesc: `Tớ có điều này muốn hỏi cậu, nhớ phải trả lời thật lòng nha`,
+    introTitle: 'xin chào Hà Thị Hương Giang hồ =))!',
+    introDesc: `Tớ có điều này muốn hỏi cậu,không trả lời cũng phải trả lời `,
     btnIntro: 'oke',
-    title: 'Cậu yêu tớ có phải không 😙',
-    desc: 'Cậu không trả lời hoặc thoát ra, tức là cậu là vợ tớ đó nha :> ',
-    btnYes: 'yêu ơi là iuuu <33',
-    btnNo: 'cậu mơ à :333',
-    question:'Nói cho tới lý do vì sao cậu yêu tớ đii <3',
+    title: 'Có thích siêu Anh Hùng không? 😙',
+    desc: 'không trả lời hoặc thoát ra, tức là có đó nha :> ',
+    btnYes: 'thích ơi là thích <33',
+    btnNo: 'đéo :))',
+    question:'Nói cho siêu Anh Hùng lý do vì sao thích đê <3',
     btnReply: 'Gửi cho tớ <3',
-    reply: 'Tại vì cậu đẹp trai hihi <33333333',
-    mess: 'Tớ biết mà 🥰. Love you 300.000 😘😘',
-    messDesc: 'còn giờ thì chờ gì nữa mà không inbox cho tớ đi nào.',
+    reply: 'Tại vì đẹp trai cao m7 hihi =)))',
+    mess: 'Tớ biết mà 🥰. Love you 3000 😘😘',
+    messDesc: 'còn giờ thì chờ gì nữa mà không inbox hát cho tớ đi nào.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://m.me/lazyeternal' 
 }
