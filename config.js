@@ -7,7 +7,7 @@ const CONFIG = {
     btnYes: 'Dạ có ạ <33',
     btnNo: 'đéo :))',
     question:'Nói cho siêu Anh Hùng lý do vì sao thích đê <3',
-    btnReply: 'Gửi cho tớ <3',
+    btnReply: 'Gửi cho siêu Anh Hùng <3',
     reply: 'Tại vì đẹp trai lại còn cao m7 hihi =)))',
     mess: 'Tớ biết mà 🥰. Love you 3000 😘😘',
     messDesc: 'còn giờ thì chờ gì nữa mà không inbox hát cho tui nghe =).',
