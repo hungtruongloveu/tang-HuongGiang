@@ -10,7 +10,7 @@ const CONFIG = {
     btnReply: 'Gửi cho tớ <3',
     reply: 'Tại vì đẹp trai cao m7 hihi =)))',
     mess: 'Tớ biết mà 🥰. Love you 3000 😘😘',
-    messDesc: 'còn giờ thì chờ gì nữa mà không inbox hát cho tớ đi nào.',
+    messDesc: 'còn giờ thì chờ gì nữa mà không inbox hát cho tớ đi =).',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://m.me/lazyeternal' 
 }
